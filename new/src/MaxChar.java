@@ -8,7 +8,7 @@ public class MaxChar {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String str2= "i am sai satyanarayna reddy";
+		String str2= "i am naveen reddy ";
 		String str1=str2.replaceAll("\\s+","");
 		System.out.println(str1);
 	    HashMap<Character, Integer> map1 = new HashMap<>();
